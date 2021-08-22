@@ -1,0 +1,15 @@
+h1 {
+  font: Georgia;
+  text-transform: uppercase;
+  color: #111111;
+  text-shadow: 2px 2px 7px #444444;
+}
+
+body {
+  text-align: center;
+  background-image: url("http://ku.90sjimg.com/element_origin_min_pic/17/03/11/e0cdd867885eb0c8b02bbef9c0a78194.jpg");
+}
+
+img{
+  border-radius: 16em
+}
